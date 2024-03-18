@@ -10,6 +10,6 @@ We warmly welcome you to join us! Let's contribute to the open-source world toge
 
 我们非常欢迎您的加入！让我们共同为开源的世界贡献力量！感谢您的支持和贡献。 :heart: 
 
-<div style="display: flex; justify-content: center;"> 
-  <img src="assets/we_want_you.jpg" width=200> 
+<div style="display: flex; justify-content: center; align-items: center;"> 
+  <img src="assets/we-need-you.jpg" width=250> 
 </div>
