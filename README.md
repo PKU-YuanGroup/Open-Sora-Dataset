@@ -2,7 +2,7 @@
 
 [[Project Page]](https://pku-yuangroup.github.io/Open-Sora-Plan/) [[中文主页]](https://pku-yuangroup.github.io/Open-Sora-Plan/blog_cn.html)
 
-:bulb:  Welcome to the Open-Sora-DataSet project! In the current process of training mutilmodel video models, the quality of the data determines the upper limit of the model performance. To build a high-quality video dataset for the open-source world, we started this project. 💪 
+:bulb:  Welcome to the Open-Sora-DataSet project! In the current process of training multimodel video models, the quality of the data determines the upper limit of the model performance. To build a high-quality video dataset for the open-source world, we started this project. 💪 
 
 We warmly welcome you to join us! Let's contribute to the open-source world together! Thank you for your support and contribution. :heart:  
 
@@ -13,3 +13,7 @@ We warmly welcome you to join us! Let's contribute to the open-source world toge
 <div style="display: flex; justify-content: center; align-items: center;"> 
   <img src="assets/we-need-you.jpg" width=250> 
 </div>
+
+
+## Acknowledgement 👍
+期待您的加入！:heart: 
