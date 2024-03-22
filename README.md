@@ -16,4 +16,4 @@ We warmly welcome you to join us! Let's contribute to the open-source world toge
 
 
 ## Acknowledgement 👍
-期待您的加入！ :heart: 
+Qingdao Weiyi Network Technology Co., Ltd.: Thank you very much for providing us with valuable data
