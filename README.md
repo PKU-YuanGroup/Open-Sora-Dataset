@@ -16,7 +16,7 @@ We warmly welcome you to join us! Let's contribute to the open-source world toge
 
 ## 视频分割(split)
 ### 对于转场丰富的视频
-
+利用[panda-70m](https://github.com/snap-research/Panda-70M/tree/main/splitting)处理
 
 ### 对于无转场视频
 1. Clone this repository and navigate to Open-Sora-Plan folder
@@ -37,7 +37,7 @@ python split/no_transition.py --video_json_file /path/to/your_video /path/to/sav
 ```
 
 
-If you want to know more, check out [[Requirements and Installation]](https://github.com/PKU-YuanGroup/Open-Sora-Plan?tab=readme-ov-file#%EF%B8%8F-requirements-and-installation)
+If you want to know more, check out [Requirements and Installation](https://github.com/PKU-YuanGroup/Open-Sora-Plan?tab=readme-ov-file#%EF%B8%8F-requirements-and-installation)
 
 ## Acknowledgement 👍
 Qingdao Weiyi Network Technology Co., Ltd.: Thank you very much for providing us with valuable data
