@@ -59,7 +59,7 @@ pip install -e .
 ```
 3. Split video script
 ```
-git clone https://github.com/shaodong233/open-sora-Dataset.git
+git clone https://github.com/PKU-YuanGroup/Open-Sora-Dataset
 python split/no_transition.py --video_json_file /path/to/your_video /path/to/save
 ```
 
