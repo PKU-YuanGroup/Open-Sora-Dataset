@@ -18,20 +18,18 @@ We warmly welcome you to join us! Let's contribute to the open-source world toge
 ### Data distribution
 we crawled 40258 videos from open-source websites under the CC0 license. All videos are of high quality without watermarks and All videos are of high quality without watermarks, and about 60% of them are landscape data. The total duration is about **274h 05m 13s**The main sources of data are divided into three parts：
 1. [mixkit](https://mixkit.co/):The total number of videos we collected is **1234**, the total duration is about **6h 19m 32s**, and the total number of frames is **570815**. The resolution and aspect ratio distribution histogram of the video is as follows (the ones that account for less than 1% are not listed)：
-<p float="left">  
-  <img src="/assets/v1.0.0_mixkit_resolution_plot.png" width="400" />  
-  <img src="/assets/v1.0.0_mixkit_aspect_ratio_plot.png" width="400" />   
-</p> 
+
+<img src="assets/v1.0.0_mixkit_resolution_plot.png" width="400" /> <img src="assets/v1.0.0_mixkit_aspect_ratio_plot.png" width="400" />
 
 2. [pexels](https://www.pexels.com/zh-cn/):The total number of videos we collected is **7408** the total duration is about **48h 49m 24s** and the total number of frames is **5038641**. The resolution and aspect ratio distribution histogram of the video is as follows (the ones that account for less than 1% are not listed)：
-<div style="display: flex; justify-content: center; align-items: center;"> 
-  <img src="assets/v1.0.0_pexels_resolution_plot.png" width=250> 
-</div>
+
+<img src="assets/v1.0.0_pexels_resolution_plot.png" height="300" /> <img src="assets/v1.0.0_pexels_aspect_ratio_plot.png" height="300" />  
+
 
 3. [pixabay](https://pixabay.com/):The total number of videos we collected is **31616** the total duration is about **218h 56m 17s** and the total number of frames is **23508970**. The resolution and aspect ratio distribution histogram of the video is as follows (the ones that account for less than 1% are not listed):
-<div style="display: flex; justify-content: center; align-items: center;"> 
-  <img src="assets/v1.0.0_pixabay_resolution_plot.png" width=250> 
-</div>
+
+<img src="assets/v1.0.0_pixabay_resolution_plot.png" height="300" /> <img src="assets/v1.0.0_pixabay_aspect_ratio_plot.png" height="300" />  
+
 
 ### Dense captions
 it is challenging to directly crawl a large quantity of high-quality dense captions from the internet. Therefore, we utilize a mature Image-captioner model to obtain high-quality dense captions. We conducted ablation experiments on two multimodal large models: [ShareGPT4V-Captioner-7B](https://github.com/InternLM/InternLM-XComposer/blob/main/projects/ShareGPT4V/README.md) and [LLaVA-1.6-34B](https://github.com/haotian-liu/LLaVA). The former is specifically designed for caption generation, while the latter is a general-purpose multimodal large model. After conducting our ablation experiments, we found that they are comparable in performance. However, there is a significant difference in their inference speed on the A800 GPU: 40s/it of batch size of 12 for ShareGPT4V-Captioner-7B, 15s/it of batch size of 1 for LLaVA-1.6-34B. We open-source all annotations [here](https://huggingface.co/datasets/LanguageBind/Open-Sora-Plan-v1.0.0). We show some statistics here, and we set the maximum length of the model to 300, which covers almost 99% of the samples.
