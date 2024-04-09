@@ -41,11 +41,11 @@ it is challenging to directly crawl a large quantity of high-quality dense capti
 
 
 
-## 视频分割(split)
-### 对于转场丰富的视频
-利用[panda-70m](https://github.com/snap-research/Panda-70M/tree/main/splitting)处理
+## Video split
+### Video with transitions
+Use [panda-70m](https://github.com/snap-research/Panda-70M/tree/main/splitting) to split transition video
 
-### 对于无转场视频
+### Video without transitions
 1. Clone this repository and navigate to Open-Sora-Plan folder
 ```
 git clone https://github.com/PKU-YuanGroup/Open-Sora-Plan
