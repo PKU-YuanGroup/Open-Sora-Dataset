@@ -2,7 +2,7 @@
 <!--
 [[Project Page]](https://pku-yuangroup.github.io/Open-Sora-Plan/) [[中文主页]](https://pku-yuangroup.github.io/Open-Sora-Plan/blog_cn.html)
 -->
-:bulb:  Welcome to the Open-Sora-DataSet project! As part of the [Open-Sora-Plan](https://pku-yuangroup.github.io/Open-Sora-Plan/) project, we specifically talk about the collection and processing of data sets. To build a high-quality video dataset for the open-source world, we started this project. 💪 
+:bulb:  Welcome to the Open-Sora-Dataset project! As part of the [Open-Sora-Plan](https://pku-yuangroup.github.io/Open-Sora-Plan/) project, we specifically talk about the collection and processing of data sets. To build a high-quality video dataset for the open-source world, we started this project. 💪 
 
 We warmly welcome you to join us! Let's contribute to the open-source world together! Thank you for your support and contribution. :heart:  
 
