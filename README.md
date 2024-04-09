@@ -6,7 +6,7 @@
 
 We warmly welcome you to join us! Let's contribute to the open-source world together! Thank you for your support and contribution. :heart:  
 
-:bulb:  欢迎来到Open-Sora-DataSet项目！我们作为Open-Sora—Plan项目的一部分，详细阐述数据集的收集和处理。为给开源世界构建一个高质量的视频数据，我们发起了这个项目。💪 
+:bulb:  欢迎来到Open-Sora-Dataset项目！我们作为Open-Sora-Plan项目的一部分，详细阐述数据集的收集和处理。为给开源世界构建一个高质量的视频数据，我们发起了这个项目。💪 
 
 我们非常欢迎您的加入！让我们共同为开源的世界贡献力量！感谢您的支持和贡献。 :heart: 
 
