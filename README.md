@@ -19,17 +19,17 @@ We warmly welcome you to join us! Let's contribute to the open-source world toge
 we crawled 40258 videos from open-source websites under the CC0 license. All videos are of high quality without watermarks and All videos are of high quality without watermarks, and about 60% of them are landscape data. The total duration is about **274h 05m 13s**The main sources of data are divided into three parts：
 1. [mixkit](https://mixkit.co/):The total number of videos we collected is **1234**, the total duration is about **6h 19m 32s**, and the total number of frames is **570815**. The resolution statistical histogram of the videos is as follows (the ones that account for less than 1% are not listed)：
 <div style="display: flex; justify-content: center; align-items: center;"> 
-  <img src="assets/v1.0.0_mixkit_resolution_plot.jpg" width=250> 
+  <img src="assets/v1.0.0_mixkit_resolution_plot.png" width=250> 
 </div>
 
 2. [pexels](https://www.pexels.com/zh-cn/):The total number of videos we collected is **7408** the total duration is about **48h 49m 24s** and the total number of frames is **5038641**. The resolution statistical histogram of the videos is as follows (the ones that account for less than 1% are not listed)：
 <div style="display: flex; justify-content: center; align-items: center;"> 
-  <img src="assets/v1.0.0_pexels_resolution_plot.jpg" width=250> 
+  <img src="assets/v1.0.0_pexels_resolution_plot.png" width=250> 
 </div>
 
 3. [pixabay](https://pixabay.com/):The total number of videos we collected is **31616** the total duration is about **218h 56m 17s** and the total number of frames is **23508970**. The resolution statistical histogram of the videos is as follows (the ones that account for less than 1% are not listed):
 <div style="display: flex; justify-content: center; align-items: center;"> 
-  <img src="assets/v1.0.0_pixabay_resolution_plot.jpg" width=250> 
+  <img src="assets/v1.0.0_pixabay_resolution_plot.png" width=250> 
 </div>
 
 ### Dense captions
