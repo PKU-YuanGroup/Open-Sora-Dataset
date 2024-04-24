@@ -63,8 +63,13 @@ git clone https://github.com/PKU-YuanGroup/Open-Sora-Dataset
 python split/no_transition.py --video_json_file /path/to/your_video /path/to/save
 ```
 
-
 If you want to know more, check out [Requirements and Installation](https://github.com/PKU-YuanGroup/Open-Sora-Plan?tab=readme-ov-file#%EF%B8%8F-requirements-and-installation)
+
+## Remove videos with text
+```
+cd ocr_process
+python ocr_process.py -i /path/to/video
+```
 
 ## Acknowledgement 👍
 Qingdao Weiyi Network Technology Co., Ltd.: Thank you very much for providing us with valuable data
