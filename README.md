@@ -16,7 +16,7 @@ We warmly welcome you to join us! Let's contribute to the open-source world toge
 
 ## Data Construction for Open-Sora-Plan v1.0.0
 ### Data distribution
-we crawled 40258 videos from open-source websites under the CC0 license. All videos are of high quality without watermarks and All videos are of high quality without watermarks, and about 60% of them are landscape data. The total duration is about **274h 05m 13s**The main sources of data are divided into three parts：
+we crawled 40258 videos from open-source websites under the CC0 license. All videos are of high quality without watermarks, and about 60% of them are landscape data. The total duration is about **274h 05m 13s**The main sources of data are divided into three parts：
 1. [mixkit](https://mixkit.co/): The total number of videos we collected is **1234**, the total duration is about **6h 19m 32s**, and the total number of frames is **570815**. The resolution and aspect ratio distribution histogram of the video is as follows (the ones that account for less than 1% are not listed)：
 
 <img src="assets/v1.0.0_mixkit_resolution_plot.png" width="400" /> <img src="assets/v1.0.0_mixkit_aspect_ratio_plot.png" width="400" />
